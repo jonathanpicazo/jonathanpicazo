@@ -2,7 +2,7 @@
 
 - 💼 I'm currently a Web Developer at Suavecito Inc.
 - 🔭 I’m currently working on a Notion/Teller API project to automate my financial planner.
-- 🌱 I’m currently learning GatsbyJS and containerization.
+- 🌱 I’m currently learning GatsbyJS and Flutter.
 - 📫 How to reach me: via email at jonathanpicazo@outlook.com
 - 😄 Pronouns: he/him
 
