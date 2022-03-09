@@ -1,7 +1,6 @@
 ### Hi there I'm jonathanpicazo 👋
 
 - 💼 I'm currently a Web Developer at Suavecito Inc.
-- 🔭 I’m currently working on a Notion/Teller API project to automate my financial planner.
 - 🌱 I’m currently learning GatsbyJS and Figma.
 - 📫 How to reach me: via email at jonathanpicazo@outlook.com, or via contact form at https://jonathanpicazo.com/.
 - 😄 Pronouns: he/him
